@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|c:\\users\\angel\\source\\repos\\contacorrenteform\\contacorrente\\moduloprincipal\\telaclienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|solutionrelative:moduloprincipal\\telaclienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|c:\\users\\angel\\source\\repos\\contacorrenteform\\contacorrente\\moduloprincipal\\transferenciaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|solutionrelative:moduloprincipal\\transferenciaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|c:\\users\\angel\\source\\repos\\contacorrenteform\\contacorrente\\bancoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|solutionrelative:bancoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|c:\\users\\angel\\source\\repos\\contacorrenteform\\contacorrente\\moduloprincipal\\telaclienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|solutionrelative:moduloprincipal\\telaclienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\modulocliente\\repositoriocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|solutionrelative:modulocliente\\repositoriocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|c:\\users\\angel\\source\\repos\\contacorrenteform\\contacorrente\\moduloprincipal\\transferenciaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|solutionrelative:moduloprincipal\\transferenciaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|c:\\users\\angel\\source\\repos\\contacorrenteform\\contacorrente\\moduloprincipal\\transferenciaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|solutionrelative:moduloprincipal\\transferenciaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\modulocliente\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|solutionrelative:modulocliente\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\modulocliente\\autenticadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|solutionrelative:modulocliente\\autenticadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|c:\\users\\angel\\source\\repos\\contacorrenteform\\contacorrente\\bancoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|solutionrelative:bancoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\modulologin\\formlogincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|solutionrelative:modulologin\\formlogincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\modulologin\\formlogincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|solutionrelative:modulologin\\formlogincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\moduloprincipal\\valoroperacaoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|solutionrelative:moduloprincipal\\valoroperacaoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\moduloprincipal\\valoroperacaoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|solutionrelative:moduloprincipal\\valoroperacaoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|c:\\users\\angel\\source\\repos\\contacorrenteform\\contacorrente\\moduloprincipal\\valoroperacaoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|solutionrelative:moduloprincipal\\valoroperacaoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\bancoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|solutionrelative:bancoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|c:\\users\\angel\\source\\repos\\contacorrenteform\\contacorrente\\moduloprincipal\\telaclienteform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69E4BE9-B686-430F-A10A-C28C69F3A315}|ContaCorrente.csproj|solutionrelative:moduloprincipal\\telaclienteform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteModel.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloCliente\\ClienteModel.cs",
+              "RelativeDocumentMoniker": "ModuloCliente\\ClienteModel.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloCliente\\ClienteModel.cs",
+              "RelativeToolTip": "ModuloCliente\\ClienteModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:07:51.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormLoginCliente.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloLogin\\FormLoginCliente.cs",
+              "RelativeDocumentMoniker": "ModuloLogin\\FormLoginCliente.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloLogin\\FormLoginCliente.cs",
+              "RelativeToolTip": "ModuloLogin\\FormLoginCliente.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:31:10.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TelaClienteForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloPrincipal\\TelaClienteForm.cs",
+              "RelativeDocumentMoniker": "ModuloPrincipal\\TelaClienteForm.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloPrincipal\\TelaClienteForm.cs [Design]",
+              "RelativeToolTip": "ModuloPrincipal\\TelaClienteForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:42:07.684Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BancoForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\BancoForm.cs",
+              "RelativeDocumentMoniker": "BancoForm.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\BancoForm.cs [Design]",
+              "RelativeToolTip": "BancoForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:49:51.642Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutenticadorController.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloCliente\\AutenticadorController.cs",
+              "RelativeDocumentMoniker": "ModuloCliente\\AutenticadorController.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloCliente\\AutenticadorController.cs",
+              "RelativeToolTip": "ModuloCliente\\AutenticadorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:51:07.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositorioCliente.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloCliente\\RepositorioCliente.cs",
+              "RelativeDocumentMoniker": "ModuloCliente\\RepositorioCliente.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloCliente\\RepositorioCliente.cs",
+              "RelativeToolTip": "ModuloCliente\\RepositorioCliente.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:13:16.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TelaClienteForm.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloPrincipal\\TelaClienteForm.cs",
+              "RelativeDocumentMoniker": "ModuloPrincipal\\TelaClienteForm.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloPrincipal\\TelaClienteForm.cs",
+              "RelativeToolTip": "ModuloPrincipal\\TelaClienteForm.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAiwCUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:44:39.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransferenciaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloPrincipal\\TransferenciaForm.cs",
+              "RelativeDocumentMoniker": "ModuloPrincipal\\TransferenciaForm.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloPrincipal\\TransferenciaForm.cs [Design]",
+              "RelativeToolTip": "ModuloPrincipal\\TransferenciaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:35:00.947Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransferenciaForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloPrincipal\\TransferenciaForm.Designer.cs",
+              "RelativeDocumentMoniker": "ModuloPrincipal\\TransferenciaForm.Designer.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloPrincipal\\TransferenciaForm.Designer.cs",
+              "RelativeToolTip": "ModuloPrincipal\\TransferenciaForm.Designer.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAADgv1QAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:06:49.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransferenciaForm.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloPrincipal\\TransferenciaForm.cs",
+              "RelativeDocumentMoniker": "ModuloPrincipal\\TransferenciaForm.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloPrincipal\\TransferenciaForm.cs",
+              "RelativeToolTip": "ModuloPrincipal\\TransferenciaForm.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwCkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:39:23.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormLoginCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloLogin\\FormLoginCliente.cs",
+              "RelativeDocumentMoniker": "ModuloLogin\\FormLoginCliente.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloLogin\\FormLoginCliente.cs [Design]",
+              "RelativeToolTip": "ModuloLogin\\FormLoginCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:57:59.068Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BancoForm.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\BancoForm.cs",
+              "RelativeDocumentMoniker": "BancoForm.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\BancoForm.cs",
+              "RelativeToolTip": "BancoForm.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:50:18.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValorOperacaoForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloPrincipal\\ValorOperacaoForm.Designer.cs",
+              "RelativeDocumentMoniker": "ModuloPrincipal\\ValorOperacaoForm.Designer.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloPrincipal\\ValorOperacaoForm.Designer.cs",
+              "RelativeToolTip": "ModuloPrincipal\\ValorOperacaoForm.Designer.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAewFkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:32:01.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ValorOperacaoForm.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloPrincipal\\ValorOperacaoForm.cs",
+              "RelativeDocumentMoniker": "ModuloPrincipal\\ValorOperacaoForm.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloPrincipal\\ValorOperacaoForm.cs",
+              "RelativeToolTip": "ModuloPrincipal\\ValorOperacaoForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:31:55.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ValorOperacaoForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloPrincipal\\ValorOperacaoForm.cs",
+              "RelativeDocumentMoniker": "ModuloPrincipal\\ValorOperacaoForm.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloPrincipal\\ValorOperacaoForm.cs [Design]",
+              "RelativeToolTip": "ModuloPrincipal\\ValorOperacaoForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:33:17.14Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TelaClienteForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloPrincipal\\TelaClienteForm.Designer.cs",
+              "RelativeDocumentMoniker": "ModuloPrincipal\\TelaClienteForm.Designer.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\ModuloPrincipal\\TelaClienteForm.Designer.cs",
+              "RelativeToolTip": "ModuloPrincipal\\TelaClienteForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:45:54.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BancoForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\BancoForm.Designer.cs",
+              "RelativeDocumentMoniker": "BancoForm.Designer.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\BancoForm.Designer.cs",
+              "RelativeToolTip": "BancoForm.Designer.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAWwEoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:38:08.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\ContaCorrenteForm\\ContaCorrente\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:05:35.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
